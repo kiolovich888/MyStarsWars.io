@@ -98,7 +98,7 @@ body {
 }
 
 .button-play::before {
-  content: "";
+  content: "https://widgets.kinopoisk.ru/discovery/film/718222/trailer/163231?noAd=0&embedId=&hidden=&muted=&loop=0&autoplay=1&from=&extraTrailers=&onlyPlayer=1";
   width: 81px;
   height: 81px;
   background-color: rgba(255, 255, 255, 0.3);
